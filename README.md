@@ -7,7 +7,7 @@ __1. Import Required Libraries and Packages:__
   
 __2.Import the Time Series Dataset:__
 
-  Load the time series dataset containing electricity transformer temperature data.
+  Load the time series dataset(ETTh1 (1).csv) containing 17420 data with timestamp(**date**) and OilTemperature(**OT**).
   
 __3.Truncate and Plot the DataFrame:__
 
